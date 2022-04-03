@@ -1,0 +1,20 @@
+.mainvideotitle{
+    color: rgba(43, 175, 72, 0.71);
+    font-size: 27px;
+    font-weight: 300;
+    margin-top: 40px;
+    text-align:center;
+    margin-bottom: 0px;
+}
+.mainvideotitle::first-letter{
+    font-size: 30px;
+    font-weight: 500;
+}
+.line1{
+    width: 40%;
+    margin-left: 30%;
+    height: .3px;
+    background-color: rgba(43, 175, 72, 0.71);
+    margin-bottom: 30px;
+    box-sizing: border-box;
+}
